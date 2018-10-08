@@ -104,6 +104,7 @@ class DistanceUnitConverterTests: XCTestCase {
     }
     
     func testFail() {
+        
         XCTAssertFalse(true)
     }
 
