@@ -102,5 +102,9 @@ class DistanceUnitConverterTests: XCTestCase {
         let distanceInKM = distanceConverter.convert(distance: 10, from: .milimeter, to: .kilometer)
         XCTAssertEqual(distanceInKM, 0.00001, "Convertion from milimeter to kilometer is incorrect")
     }
+    
+    func testFail() {
+        XCTAssertFalse(true)
+    }
 
 }
