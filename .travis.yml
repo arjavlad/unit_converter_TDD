@@ -1,5 +1,6 @@
 language: swift
+os:ios
 osx_image: xcode10
-xcode_project: MovingHelper.xcodeproj
-xcode_scheme: MovingHelper
+xcode_project: unit_converter.xcodeproj
+xcode_scheme: unit_converter
 xcode_sdk: iphonesimulator12.0 
