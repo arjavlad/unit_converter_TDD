@@ -17,6 +17,7 @@
 		59AE075F20D90EB100B4D2ED /* DistanceUnitConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59AE075E20D90EB100B4D2ED /* DistanceUnitConverter.swift */; };
 		59AE076020D90EB100B4D2ED /* DistanceUnitConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59AE075E20D90EB100B4D2ED /* DistanceUnitConverter.swift */; };
 		59AE076220D90EE600B4D2ED /* DistanceUnitConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59AE076120D90EE600B4D2ED /* DistanceUnitConverterTests.swift */; };
+		59CC4A5B216B6C5F0005D726 /* FailedTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59CC4A5A216B6C5F0005D726 /* FailedTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		59AE075A20D90E5100B4D2ED /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		59AE075E20D90EB100B4D2ED /* DistanceUnitConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistanceUnitConverter.swift; sourceTree = "<group>"; };
 		59AE076120D90EE600B4D2ED /* DistanceUnitConverterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistanceUnitConverterTests.swift; sourceTree = "<group>"; };
+		59CC4A5A216B6C5F0005D726 /* FailedTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FailedTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				59AE074E20D90BD700B4D2ED /* unit_converterTests.swift */,
 				59AE076120D90EE600B4D2ED /* DistanceUnitConverterTests.swift */,
+				59CC4A5A216B6C5F0005D726 /* FailedTest.swift */,
 				59AE075020D90BD700B4D2ED /* Info.plist */,
 			);
 			path = unit_converterTests;
@@ -236,6 +239,7 @@
 				59AE076020D90EB100B4D2ED /* DistanceUnitConverter.swift in Sources */,
 				59AE076220D90EE600B4D2ED /* DistanceUnitConverterTests.swift in Sources */,
 				59AE074F20D90BD700B4D2ED /* unit_converterTests.swift in Sources */,
+				59CC4A5B216B6C5F0005D726 /* FailedTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
